@@ -3,7 +3,7 @@
 
 /**
  * FILE: main.h
- * DESC: header file declaration
+ * DESC: header file addition
  * AUTHOR: Ibe Chukwuebuka
  */
 
