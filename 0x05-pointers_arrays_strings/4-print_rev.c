@@ -4,7 +4,6 @@
  * print_rev - prints a string in reverse
  * @s: The string to be printed
  */
-
 void print_rev(char *s)
 {
 	int i, len, temp;
